@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin_user",
+      "status": "Administrator",
+      "fullName": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "password": "adminpassword123"
+    },
+    {
+      "id": "b64e",
+      "username": "member",
+      "password": "102938",
+      "email": "member@gmail.com",
+      "fullName": "Member De Test",
+      "subscription_id": null,
+      "subscription_status": "inactive",
+      "subscription_created_at": null,
+      "card_details": {
+        "card_number": "1111222211112222",
+        "expiry_date": "12/24",
+        "cardholder_name": "dadasdae",
+        "cvv": "123"
+      }
+    },
+    {
+      "id": "0f67",
+      "username": "memberi",
+      "password": "memberi",
+      "email": "memberi@yahoo.com",
+      "fullName": "memberi memberi ",
+      "subscription_id": null,
+      "subscription_status": "inactive",
+      "subscription_created_at": null,
+      "card_details": {
+        "card_number": "1234567891234567",
+        "expiry_date": "12/24",
+        "cardholder_name": "smecheru",
+        "cvv": "123"
+      }
+    },
+    {
+      "id": "4dd2",
+      "username": "ana",
+      "password": "102938",
+      "email": "ana@ana.com",
+      "fullName": "ana ana",
+      "subscription_id": "3",
+      "subscription_status": "active",
+      "subscription_created_at": "2024-08-06T19:54:45.769Z",
+      "card_details": {
+        "card_number": "1111111111111111",
+        "expiry_date": "12/24",
+        "cardholder_name": "ana ana ",
+        "cvv": "123"
+      }
+    },
+    {
+      "id": "5aee",
+      "username": "membere",
+      "password": "11111",
+      "email": "mem@mem.com",
+      "fullName": "mem eme",
+      "subscription_id": null,
+      "subscription_status": "inactive",
+      "subscription_created_at": null,
+      "card_details": {
+        "card_number": "1111222233334444",
+        "expiry_date": "12/24",
+        "cardholder_name": "Member me",
+        "cvv": "123"
+      }
+    },
+    {
+      "id": "5ed3",
+      "username": "test",
+      "password": "102938",
+      "email": "test",
+      "fullName": "Test Teste",
+      "subscription_id": null,
+      "subscription_status": "inactive",
+      "subscription_created_at": null,
+      "card_details": {
+        "card_number": "1111222233334444",
+        "expiry_date": "12/24",
+        "cardholder_name": "Raducanu Gabriel",
+        "cvv": "123"
+      }
+    },
+    {
+      "id": "a647",
+      "username": "rdcngbrl",
+      "password": "zhezhezhe",
+      "email": "rdcngbrl@mail.com",
+      "fullName": "Rdcn Gbrl",
+      "subscription_id": null,
+      "subscription_status": "inactive",
+      "subscription_created_at": null,
+      "card_details": {
+        "card_number": "2121444455556666",
+        "expiry_date": "05/25",
+        "cardholder_name": "Rdcn Gbrl",
+        "cvv": "312"
+      }
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "name": "Bronze",
+      "features": [
+        "Fitness",
+        "Pilates",
+        "Aerobic"
+      ],
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "name": "Silver",
+      "features": [
+        "Fitness",
+        "Pilates",
+        "Aerobic",
+        "Piscina"
+      ],
+      "price": "200"
+    },
+    {
+      "id": "3",
+      "name": "Gold",
+      "features": [
+        "Fitness",
+        "Pilates",
+        "Aerobic",
+        "Piscina",
+        "Sauna",
+        "Masaj"
+      ],
+      "price": "300"
+    }
+  ],
+  "contact-us": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "message": "Hello, this is a test message.",
+      "id": "0382"
+    },
+    {
+      "id": "a9d3",
+      "name": "test",
+      "email": "test@gamil.com",
+      "message": "sadasfsfhjaskldas"
+    },
+    {
+      "id": "4256",
+      "name": "Test 2",
+      "email": "ceva@yahoo.com",
+      "message": "sd"
+    },
+    {
+      "id": "b55c",
+      "name": "test",
+      "email": "test@gamil.com",
+      "message": "dasdasdasdas"
+    },
+    {
+      "id": "76d8",
+      "name": "Rdcn Gbrl",
+      "email": "rdcngbrl@mail.com",
+      "message": "Lorem Ipsum indolores"
+    }
+  ]
+}
